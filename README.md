@@ -45,10 +45,16 @@ These outputs show a consistent tendency toward **aged textures and traditional 
 
 ---
 
+## 🎥 Demo Video
+
+[![Watch the demo](https://youtu.be/O7qbnz9ws5Y?si=MvrNTtkcmzrLFbyr)
+
+---
+
 ## ⚠️ Limitations
 
 - Style consistency can vary depending on prompts
-- **use "old book illustration style" in start of prompt then write the idea to activate lora
+- **use "old book illustration style" in start of prompt then write the idea to activate lora**
 ```python
 from diffusers import StableDiffusionPipeline
 import torch
@@ -84,6 +90,9 @@ plt.show()
 - Debugging generative models requires experimentation, not just theory
 
 ---
+## Note
+-If you used this model or like the art it generate please give this model a upvote this will motivate me to learn and make more🫠🙂
+
 
 
 
