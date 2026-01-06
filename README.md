@@ -91,7 +91,7 @@ plt.show()
 
 ---
 ## Note
--If you used this model or like the art it generate please give this model a upvote on Kaggle[Kaggle](https://www.kaggle.com/models/adarsh2626/sd15_old_book_style/discussion/666266) this will motivate me to learn and make more🫠🙂
+-If you used this model or like the art it generate please give this model a upvote on [Kaggle](https://www.kaggle.com/models/adarsh2626/sd15_old_book_style/) this will motivate me to learn and make more🫠🙂
 
 
 
