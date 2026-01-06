@@ -47,7 +47,7 @@ These outputs show a consistent tendency toward **aged textures and traditional 
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://youtu.be/O7qbnz9ws5Y?si=MvrNTtkcmzrLFbyr)
+https://youtu.be/O7qbnz9ws5Y?si=MvrNTtkcmzrLFbyr
 
 ---
 
